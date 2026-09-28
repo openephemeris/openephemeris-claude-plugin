@@ -1,0 +1,23 @@
+{
+  "name": "openephemeris",
+  "displayName": "Open Ephemeris",
+  "version": "1.0.0",
+  "description": "Skills that teach Claude to use the Open Ephemeris connector well: positions always come from the tools, birth data is handled correctly, and charts, Human Design, transits, bi-wheels and astrocartography are read accurately.",
+  "author": {
+    "name": "Spirit River Inc",
+    "url": "https://openephemeris.com"
+  },
+  "homepage": "https://openephemeris.com/astrology-mcp",
+  "repository": "https://github.com/openephemeris/openephemeris-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "astrology",
+    "ephemeris",
+    "natal-chart",
+    "transits",
+    "human-design",
+    "astrocartography",
+    "synastry",
+    "moon-phase"
+  ]
+}

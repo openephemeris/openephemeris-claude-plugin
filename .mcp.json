@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "openephemeris": {
+      "type": "http",
+      "url": "https://mcp.openephemeris.com/mcp"
+    }
+  }
+}
