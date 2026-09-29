@@ -12,7 +12,7 @@ Two families exist. The `explore_*` tools return an interactive chart the user c
 | The user wants | Tool |
 |---|---|
 | To see a birth chart, or "my big three" | `explore_natal_chart` |
-| A chart as data: exact degrees, an aspect table, JSON | `ephemeris_natal_chart` (pass `format: "llm"` for a compact result) |
+| A chart as data: exact degrees, an aspect table, JSON | `ephemeris_natal_chart` (set the `format` argument to llm for a compact result) |
 | To see a Human Design bodygraph | `explore_human_design` |
 | Human Design activations, design and personality positions, as data | `human_design_chart` |
 | To see a two-ring chart (synastry, transits, progressions, returns) | `explore_bi_wheel` |
